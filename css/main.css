@@ -151,9 +151,9 @@ p.description {
         flex-shrink: 0;
     }
 
-    .companies a.dribbble .logo {background-image: url(../img/logo-dribbble.png);}
+    .companies a.biking .logo {background-image: url(../img/biking-04.png);}
     .companies a.invoiceme .logo {background-image: url(../img/invoiceme-03.png);}
-    .companies a.pixel-union .logo {background-image: url(../img/logo-pixel-union.png);}
+    .companies a.modern .logo {background-image: url(../img/modernist-05.png);}
     .companies a.designer-news .logo {background-image: url(../img/logo-designer-news.svg);}
     .companies a.flow .logo {background-image: url(../img/logo-flow.svg);}
     .companies a.need-want .logo {background-image: url(../img/logo-need-want.svg);}
